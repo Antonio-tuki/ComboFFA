@@ -1,0 +1,20 @@
+Warps
+StaffMode
+Economy
+Shop
+Duels
+Koth
+Kits
+Combat tag
+stats
+kills
+deaths
+balance
+kill reward
+kill streak
+enderpearl cooldown
+scoreboard
+tablist
+all msg
+all toggeable
+leaderboards

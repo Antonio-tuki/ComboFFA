@@ -1,0 +1,20 @@
+MEDIA:
+  DISCORD:
+    - '&adiscord.gg/server'
+  TEAMSPEAK:
+    - '&ats.server.net'
+  WEBSITE:
+    - '&awww.server.net'
+  STORE:
+    - '&astore.server.net'
+  TWITTER:
+    - '&awww.twitter.com/server'
+
+CHAT-FORMAT: "&7[&a{KILLS}&7] {PLAYER} {MESSAGE}"
+
+DEATHS:
+  KILLED: '&cYou have been killed by {PLAYER}'
+  OTHER: '&cYou died for {CAUSE}'
+
+CLANS:
+  CREATED: "&aSuccessfully created your clan {CLAN-NAME}!"

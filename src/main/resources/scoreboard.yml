@@ -1,0 +1,21 @@
+TITLETYPE: NORMAL #NORMAL/ANIMATED
+TITLE: '&eCombo | 1.0'
+ANIMATEDTITLE:
+  - '&eC'
+  - '&eCo'
+  - '&eCom'
+  - '&eComb'
+  - '&eCombo'
+SCOREBOARD:
+  - '&7&m--------------------'
+  - '&cKills : {KILLS}'
+  - '&cDeaths : {DEATHS}'
+  - ''
+  - '{FOOTER}'
+  - '&7&m--------------------'
+FOOTERTYPE: NORMAL #NORMAL/ANIMATED
+FOOTER: '&6cougar.rip'
+ANIMATEDFOOTER:
+  - '&6cougar.rip'
+  - '&dcougar.rip'
+  - '&5cougar.rip'

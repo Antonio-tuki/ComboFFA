@@ -1,0 +1,10 @@
+SCOREBOARD: true
+TABLIST: true
+CLANS: false
+COMMANDS:
+  MEDIA:
+    DISCORD: true
+    TEAMSPEAK: true
+    WEBSITE: true
+    STORE: true
+    TWITTER: true
